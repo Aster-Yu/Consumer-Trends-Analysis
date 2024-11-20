@@ -1,1 +1,49 @@
-# Sales-Performance-Project
+# EDA - Consumer Trends Analysis Project
+
+This project involves a comprehensive exploratory data analysis (EDA) of consumer behavior and retail performance. It aims to uncover actionable insights into customer purchasing patterns, product profitability, and regional performance trends within a retail context.
+
+
+## Introduction
+
+Understanding consumer trends is critical for retailers to optimize operations and improve profitability. This project analyzes a rich dataset containing transaction details, customer demographics, product categories, and sales metrics to identify patterns and insights that can inform data-driven decisions.
+
+## Objectives
+
+The primary goals of this project are:
+1. To identify key consumer trends across regions and demographics.
+2. To analyze the profitability and performance of different product categories.
+3. To uncover time-based sales trends and seasonal patterns.
+4. To provide visualizations that effectively communicate insights.
+
+## Features
+
+1. **Regional Insights**
+   - Total revenue and performance comparison by region.
+   - Identification of top-performing states.
+
+2. **Product Performance**
+   - Profitability analysis across product categories.
+   - Best-selling product categories and their contribution.
+
+3. **Customer Analysis**
+   - Spending patterns by gender and age groups.
+   - Gender distribution across shopping locations.
+
+4. **Time-Based Trends**
+   - Daily and monthly sales trends.
+   - Identification of seasonal peaks and troughs.
+
+5. **Advanced Metrics**
+   - Customer lifetime value (CLTV) distribution.
+   - Basket size analysis (items purchased per transaction).
+   - Age group segmentation and purchasing behavior.
+
+
+## Key Insights
+
+Here are some of the key insights derived from the analysis:
+- **Regional Trends**: The top-performing regions in terms of revenue and profitability.
+- **Product Profitability**: Categories such as Clothing and Technology drive the highest profits.
+- **Demographic Insights**: Female customers contribute more to total sales, with age groups 36-45 showing the highest spending.
+- **Seasonal Trends**: Sales show significant spikes during certain months, indicating seasonal effects.
+- **Customer Behavior**: Repeat customers demonstrate higher lifetime value compared to one-time buyers.
