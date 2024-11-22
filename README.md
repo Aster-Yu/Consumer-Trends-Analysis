@@ -1,19 +1,14 @@
 # EDA - Consumer Trends Analysis Project
 
-This project involves a comprehensive exploratory data analysis (EDA) of consumer behavior and retail performance. It aims to uncover actionable insights into customer purchasing patterns, product profitability, and regional performance trends within a retail context.
+This project involves a comprehensive exploratory data analysis (EDA) of consumer behavior and retail performance. It aims to uncover actionable insights into customer purchasing patterns, product profitability, and regional performance trends within a retail context. Note that data has been modified to protect company confidentiality and does not represent actual figures.
 
-
-## Introduction
-
-Understanding consumer trends is critical for retailers to optimize operations and improve profitability. This project analyzes a rich dataset containing transaction details, customer demographics, product categories, and sales metrics to identify patterns and insights that can inform data-driven decisions.
 
 ## Objectives
 
-The primary goals of this project are:
-1. To identify key consumer trends across regions and demographics.
-2. To analyze the profitability and performance of different product categories.
-3. To uncover time-based sales trends and seasonal patterns.
-4. To provide visualizations that effectively communicate insights.
+- Uncover customer purchasing patterns
+- Analyze product profitability
+- Identify regional performance trends
+- Generate actionable business insights
 
 ## Features
 
@@ -47,3 +42,8 @@ Here are some of the key insights derived from the analysis:
 - **Demographic Insights**: Female customers contribute more to total sales, with age groups 36-45 showing the highest spending.
 - **Seasonal Trends**: Sales show significant spikes during certain months, indicating seasonal effects.
 - **Customer Behavior**: Repeat customers demonstrate higher lifetime value compared to one-time buyers.
+
+## Note
+
+All data has been anonymized and modified. Results are for reference only.
+
